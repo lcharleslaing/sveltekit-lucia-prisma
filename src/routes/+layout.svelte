@@ -1,4 +1,5 @@
 <script lang="ts">
+	import '../app.postcss'
 	import '@picocss/pico'
 	import type { PageData } from './$types'
 	export let data: PageData
